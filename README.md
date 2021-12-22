@@ -13,8 +13,8 @@ Big Data Analytics Project: Personalized Company Research Dashboard (Group 46)
 <p> We are utilizing data from several sources in our project. This includes financial data collected using Yahoo Finance API to display real-time stock price, video data from YouTube API to filter and display videos, and real-time tweets from Twitter API to perform sentiment analysis.
 We have also used the Twitter Tweets Data for Sentiment Analysis dataset to experiment with using a BERT model for sentiment analysis. </p>
 
-## Language: 
+## Language
 Python, Django
 
-## Analytics: 
+## Analytics
 <p> For a given user input of company name, we queried the Yahoo Finance API to query the latest stock price by the minute. Next, we used the YouTube Data API to retrieve the top 10 news videos of the company searched using the tags: Company name, it's stock ticker, and 'news'. Finally, we queried the Twitter API using these tags to retrieve the latest company news on which we performed sentiment analysis using the TextBlob library. </p>
