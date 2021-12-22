@@ -1,4 +1,4 @@
-# EECS_E6893
+# EECS E6893 Fall 2021 Course Project
 Big Data Analytics Project: Personalized Company Research Dashboard (Group 46)
 
 ## Contributors- Group 46
